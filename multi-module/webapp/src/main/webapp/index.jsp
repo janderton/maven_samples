@@ -1,5 +1,6 @@
 <html>
 <body>
-<h1>HELLO WORLD</h1>
+ <img src="http://www.actifio.com/wp-content/themes/actifio2014/img/logo.png" 
+<h1> Actifio DB Web App v 1.0 </h1>
 </body>
 </html>
